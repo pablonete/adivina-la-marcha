@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button-option {
+  padding: 8px;
+  margin: 4px;
+  background: lightskyblue;
+}
+
+.hidden {
+  visibility: hidden;
+  height: 1px;
+}
